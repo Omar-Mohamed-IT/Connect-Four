@@ -1,6 +1,6 @@
 # Connect-4 Game
 
-This is a simple web-based implementation of the classic **Connect-4** game. One of my very first projects. I created the game in c++ first and then converted it into JavaScript code. 
+This is a simple web-based implementation of the classic **Connect-4** game. One of my very first projects. I created the game in C++ first and then converted it into JavaScript code. 
 The game allows two players to take turns dropping chips into columns, with the goal of being the first to connect four chips in a row either horizontally, vertically, or diagonally.
 
 ## Features
@@ -8,7 +8,7 @@ The game allows two players to take turns dropping chips into columns, with the 
 - Two-player mode.
 - Visual representation of player moves using images for chips.
 - Column-based selection for chip insertion.
-- Game checks for winning conditions (4 in a row) and declares the winner.
+- The game checks for winning conditions (4 in a row) and declares the winner.
 - The board automatically resets with the "Reset" button.
 
 ## How to Play
@@ -26,7 +26,7 @@ This project is **currently under development** and will be enhanced with the fo
 - **Improved UI**: Enhancing the visuals with better styling and animations.
 - **Scoreboard**: Displaying scores of multiple rounds.
 - **Mobile Compatibility**: Making the game more responsive on mobile devices.
-- **Bug Fixes**: Addressing any known bugs and improving overall stability.
+- **Bug Fixes**: Address known bugs and improve overall stability.
 
 ## Current Status
 
@@ -36,7 +36,7 @@ Stay tuned for future updates!
 
 ## How to Access the Game
 
-You can access the game by opening live server in JS code.
+You can access the game through this link : https://1jzt86z9jqh8t3vakakeeq.on.drv.tw/www.My-Portfolio.blog/Connect4/
 
 ## Contributing
 
